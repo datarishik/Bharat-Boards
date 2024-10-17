@@ -1,0 +1,81 @@
+
+    <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <title>Vedic Texts Search Results</title>
+        <link>https://www.bharatboards.com</link> <!-- Update with your website link -->
+        <description>Latest search results for Vedas and Upanishads from Vedic Texts Search</description>
+        <atom:link href="https://script.google.com/macros/s/AKfycbyuLilb7NNMYDssxjQQVWvZ0XdE-x72GaaKyYyaUMB7/dev" rel="self" type="application/rss+xml" />
+        
+      <item>
+        <title>Vedas - Wikipedia</title>
+        <link>https://en.wikipedia.org/wiki/Vedas</link>
+        <description>The Vedas are a large body of religious texts originating in ancient India. Composed in Vedic Sanskrit, the texts constitute the oldest layer of Sanskrit?...</description>
+        <guid isPermaLink="true">https://en.wikipedia.org/wiki/Vedas</guid>
+      </item>
+    
+      <item>
+        <title>Upanishads | Vedic Heritage Portal</title>
+        <link>https://vedicheritage.gov.in/upanishads/</link>
+        <description>The Upanishads are called the &apos;end of the Veda&apos; is that they represent the central aim of the Veda and contain the highest and ultimate goal of the Veda.</description>
+        <guid isPermaLink="true">https://vedicheritage.gov.in/upanishads/</guid>
+      </item>
+    
+      <item>
+        <title>Upanishads - Wikipedia</title>
+        <link>https://en.wikipedia.org/wiki/Upanishads</link>
+        <description>The Upanishads are late Vedic and post-Vedic Sanskrit texts that &quot;document the transition from the archaic ritualism of the Veda into new religious ideas?...</description>
+        <guid isPermaLink="true">https://en.wikipedia.org/wiki/Upanishads</guid>
+      </item>
+    
+      <item>
+        <title>Hinduism - Upanishads, Vedas, Brahman | Britannica</title>
+        <link>https://www.britannica.com/topic/Hinduism/The-Upanishads</link>
+        <description>Sep 2, 2024 ... Hinduism - Upanishads, Vedas, Brahman: With the last component of the Vedas, the philosophically oriented and esoteric texts known as the?...</description>
+        <guid isPermaLink="true">https://www.britannica.com/topic/Hinduism/The-Upanishads</guid>
+      </item>
+    
+      <item>
+        <title>I want to read the Vedas or the Upanishads, but I don&apos;t know where ...</title>
+        <link>https://www.reddit.com/r/india/comments/2d8ix2/i_want_to_read_the_vedas_or_the_upanishads_but_i/</link>
+        <description>Aug 11, 2014 ... Upanishads are easy reads and these particular publication, has explained all that is to be imparted, in lay man&apos;s language. then you can go on?...</description>
+        <guid isPermaLink="true">https://www.reddit.com/r/india/comments/2d8ix2/i_want_to_read_the_vedas_or_the_upanishads_but_i/</guid>
+      </item>
+    
+      <item>
+        <title>VEDAS AND UPANISHADS</title>
+        <link>https://unacademy.com/content/upsc/difference-between/vedas-and-upanishads/</link>
+        <description>The Vedas are India&apos;s most revered writings and the earliest textual record of Indo-Aryan culture. They are Hindu teachings&apos; original scriptures.</description>
+        <guid isPermaLink="true">https://unacademy.com/content/upsc/difference-between/vedas-and-upanishads/</guid>
+      </item>
+    
+      <item>
+        <title>In what order should I read Vedas and Upanishads? : r/hinduism</title>
+        <link>https://www.reddit.com/r/hinduism/comments/14rxlxi/in_what_order_should_i_read_vedas_and_upanishads/</link>
+        <description>Jul 6, 2023 ... I want to read all the books on Hinduism. Be it Vedas, Upanishads, Ramayana, Mahabharata, Shivpuran etc. What are the books (in English) which I should read?</description>
+        <guid isPermaLink="true">https://www.reddit.com/r/hinduism/comments/14rxlxi/in_what_order_should_i_read_vedas_and_upanishads/</guid>
+      </item>
+    
+      <item>
+        <title>Difference between Vedas and Upanishads | Vedas vs Upanishads ...</title>
+        <link>https://byjus.com/free-ias-prep/difference-between-vedas-and-upanishads/</link>
+        <description>The Vedas are a large body of religious texts originating in ancient India. Composed in Vedic Sanskrit, the texts constitute the oldest layer of Sanskrit?...</description>
+        <guid isPermaLink="true">https://byjus.com/free-ias-prep/difference-between-vedas-and-upanishads/</guid>
+      </item>
+    
+      <item>
+        <title>In what did order should I read the Bhagavad Gita, Vedas, and ...</title>
+        <link>https://www.reddit.com/r/hinduism/comments/1555wka/in_what_did_order_should_i_read_the_bhagavad_gita/</link>
+        <description>Jul 20, 2023 ... Chronologically would be the Vedas, Upanishads, ans then Bhagavad Gita. However if you don&apos;t know much about Vedanta philosophy yet, I would?...</description>
+        <guid isPermaLink="true">https://www.reddit.com/r/hinduism/comments/1555wka/in_what_did_order_should_i_read_the_bhagavad_gita/</guid>
+      </item>
+    
+      <item>
+        <title>What is the right place to start reading about Vedas, Upanishads ...</title>
+        <link>https://www.quora.com/What-is-the-right-place-to-start-reading-about-Vedas-Upanishads-and-Puranas-for-a-complete-newbie-in-the-field</link>
+        <description>Oct 3, 2012 ... As these scriptures are written in devnagari script i would recommend you to read them original, in sanskrit along with a translation in hindi.</description>
+        <guid isPermaLink="true">https://www.quora.com/What-is-the-right-place-to-start-reading-about-Vedas-Upanishads-and-Puranas-for-a-complete-newbie-in-the-field</guid>
+      </item>
+    
+      </channel>
+    </rss>
+  
