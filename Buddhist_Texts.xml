@@ -4,7 +4,7 @@
         <title>Buddhist Texts Search Results</title>
         <link>https://www.bharatboards.com</link> <!-- Update with your website link -->
         <description>Latest search results for Budhist Texts</description>
-        <atom:link href="https://script.google.com/macros/s/AKfycbzTg-2JG-sKIPaKRM-5LyakQ5saerqARedzYlP9aw3m/dev" rel="self" type="application/rss+xml" />
+        <atom:link href="https://script.google.com/macros/s/AKfycbxkMzKpKDqU7cRQvy5FGrPRMaezPMQTA4AxEhX2gj5f6UXeE4oX5C66G8SWObQAX9Ez3A/exec" rel="self" type="application/rss+xml" />
         
       <item>
         <title>Buddhist texts - Wikipedia</title>
@@ -56,10 +56,10 @@
       </item>
     
       <item>
-        <title>Sacred Texts - Buddhism - LibGuides at Michigan State University ...</title>
-        <link>https://libguides.lib.msu.edu/c.php?g=96947&p=627227</link>
-        <description>Oct 2, 2023 ... These collections, plus the Vinaya Pitaka (monastic rules) and Abidhamma/Aabidharma (philosophical texts) compose the Buddhist Canon. Buddhism?...</description>
-        <guid isPermaLink="true">https://libguides.lib.msu.edu/c.php?g=96947&p=627227</guid>
+        <title>Buddhist Text Translation Society</title>
+        <link>https://www.buddhisttexts.org/</link>
+        <description>Buddhist Text Translation Society (BTTS) is dedicated to making the principles of the Buddhadharma (the Buddha&apos;s teachings) available to Western readers in?...</description>
+        <guid isPermaLink="true">https://www.buddhisttexts.org/</guid>
       </item>
     
       <item>
@@ -70,10 +70,10 @@
       </item>
     
       <item>
-        <title>Buddhist Text Translation Society</title>
-        <link>https://www.buddhisttexts.org/</link>
-        <description>Buddhist Text Translation Society (BTTS) is dedicated to making the principles of the Buddhadharma (the Buddha&apos;s teachings) available to Western readers in?...</description>
-        <guid isPermaLink="true">https://www.buddhisttexts.org/</guid>
+        <title>Sacred Texts - Buddhism - LibGuides at Michigan State University ...</title>
+        <link>https://libguides.lib.msu.edu/c.php?g=96947&p=627227</link>
+        <description>Oct 2, 2023 ... These collections, plus the Vinaya Pitaka (monastic rules) and Abidhamma/Aabidharma (philosophical texts) compose the Buddhist Canon. Buddhism?...</description>
+        <guid isPermaLink="true">https://libguides.lib.msu.edu/c.php?g=96947&p=627227</guid>
       </item>
     
       </channel>
