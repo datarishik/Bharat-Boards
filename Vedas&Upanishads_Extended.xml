@@ -4,7 +4,7 @@
         <title>Vedic Texts Extended Search Results</title>
         <link>https://www.bharatboards.com</link> <!-- Update with your website link -->
         <description>Latest search results for Vedas and Upanishads from Vedic Texts Extended Search</description>
-        <atom:link href="https://script.google.com/macros/s/AKfycbykCaDpokcbBq-w2gOl4IFAbZ5YSm8XHVsqQIanxRCBa0rpPNSX1YU2GEy2kLk31rpEYg/exec" rel="self" type="application/rss+xml" />
+        <atom:link href="https://script.google.com/macros/s/AKfycbwIzdcysupI8kw3edJr44xzW_yS1sRfyzE7_a_2syFc5KzPQh3b/exec" rel="self" type="application/rss+xml" />
         
       <item>
         <title>Vedas - Wikipedia</title>
@@ -21,10 +21,10 @@
       </item>
     
       <item>
-        <title>Upanishads | Vedic Heritage Portal</title>
-        <link>https://vedicheritage.gov.in/upanishads/</link>
-        <description>Traditionally, the old Upanishads had their place in the Brahmanas and Aranyakas. ... RigvedaAham Brahmasm ? YajurvedaTattvamasi ?- SamvedaAyamatma Brahma?...</description>
-        <guid isPermaLink="true">https://vedicheritage.gov.in/upanishads/</guid>
+        <title>Aranyakas | Vedic Heritage Portal</title>
+        <link>https://vedicheritage.gov.in/aranyakas/</link>
+        <description>There is no Aranyaka which belongs to the Atharvaveda. (A) Aranyakas of the Rigveda: ... (B) Aranyakas of the Samaveda: ... (C) Aranyaka of Shukla Yajurveda: ... (D)?...</description>
+        <guid isPermaLink="true">https://vedicheritage.gov.in/aranyakas/</guid>
       </item>
     
       <item>
@@ -35,10 +35,10 @@
       </item>
     
       <item>
-        <title>Aranyakas | Vedic Heritage Portal</title>
-        <link>https://vedicheritage.gov.in/aranyakas/</link>
-        <description>There is no Aranyaka which belongs to the Atharvaveda. (A) Aranyakas of the Rigveda: ... (B) Aranyakas of the Samaveda: ... (C) Aranyaka of Shukla Yajurveda: ... (D)?...</description>
-        <guid isPermaLink="true">https://vedicheritage.gov.in/aranyakas/</guid>
+        <title>Upanishads | Vedic Heritage Portal</title>
+        <link>https://vedicheritage.gov.in/upanishads/</link>
+        <description>Traditionally, the old Upanishads had their place in the Brahmanas and Aranyakas. ... RigvedaAham Brahmasm ? YajurvedaTattvamasi ?- SamvedaAyamatma Brahma?...</description>
+        <guid isPermaLink="true">https://vedicheritage.gov.in/upanishads/</guid>
       </item>
     
       <item>
