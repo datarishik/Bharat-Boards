@@ -4,7 +4,7 @@
         <title>Sanskrit Search Results</title>
         <link>https://www.bharatboards.com</link> <!-- Update with your website link -->
         <description>Latest search results for Sanskrit</description>
-        <atom:link href="https://script.google.com/macros/s/AKfycbyM0JWY565wuUKD3IzCYYZnrO0G_wdO6A9kezNfx-Il2-LERUU/exec" rel="self" type="application/rss+xml" />
+        <atom:link href="https://script.google.com/macros/s/AKfycbxUr8P16gWMreL4TrdSNREULSpbvhmvdzvvu6LjiauleyJxLqy1_IX_8LecG_kgOjAt/exec" rel="self" type="application/rss+xml" />
         
       <item>
         <title>Sanskrit - Wikipedia</title>
@@ -21,13 +21,6 @@
       </item>
     
       <item>
-        <title>Sanskrit literature - Wikipedia</title>
-        <link>https://en.wikipedia.org/wiki/Sanskrit_literature</link>
-        <description>Sanskrit literature is a broad term for all literature composed in Sanskrit. This includes texts composed in the earliest attested descendant of the?...</description>
-        <guid isPermaLink="true">https://en.wikipedia.org/wiki/Sanskrit_literature</guid>
-      </item>
-    
-      <item>
         <title>Difference between Telugu and Sanskrit - Srikaram.org</title>
         <link>https://srikaram.org/difference-between-telugu-and-sanskrit/</link>
         <description>Content: Telugu literature often reflects regional culture, social issues, and folklore. Sanskrit: Literary Tradition: Sanskrit literature includes Vedic texts,?...</description>
@@ -35,9 +28,16 @@
       </item>
     
       <item>
+        <title>Sanskrit literature - Wikipedia</title>
+        <link>https://en.wikipedia.org/wiki/Sanskrit_literature</link>
+        <description>Sanskrit literature is a broad term for all literature composed in Sanskrit. This includes texts composed in the earliest attested descendant of the?...</description>
+        <guid isPermaLink="true">https://en.wikipedia.org/wiki/Sanskrit_literature</guid>
+      </item>
+    
+      <item>
         <title>BA in Sanskrit 2023-24</title>
         <link>https://orinst.web.ox.ac.uk/sitefiles/ba-in-sanskrit-2023-24.pdf</link>
-        <description>... culturally most important genres of Sanskrit literature: Sanskrit grammatical science. (vy?kara?a) and Vedic Sanskrit. Teaching on Sanskrit grammar is?...</description>
+        <description>... Vedic literature, and to the principles of historical philological analysis of these texts. ... cultural significance of dharma literature in ancient South Asia.</description>
         <guid isPermaLink="true">https://orinst.web.ox.ac.uk/sitefiles/ba-in-sanskrit-2023-24.pdf</guid>
       </item>
     
@@ -56,13 +56,6 @@
       </item>
     
       <item>
-        <title>What are the differences of Vedic and Sanskrit language ...</title>
-        <link>https://www.quora.com/What-are-the-differences-of-Vedic-and-Sanskrit-language-linguistically-Can-this-be-illustrated-with-some-fundamental-examples</link>
-        <description>Feb 19, 2018 ... The Rigveda may be the oldest literature belonging to Indo-European languages. When indo-Aryans entered India, they brought with them, along?...</description>
-        <guid isPermaLink="true">https://www.quora.com/What-are-the-differences-of-Vedic-and-Sanskrit-language-linguistically-Can-this-be-illustrated-with-some-fundamental-examples</guid>
-      </item>
-    
-      <item>
         <title>About Sanskrit</title>
         <link>https://www.sanskrit.nic.in/about_sanskrit.php</link>
         <description>There are four Vedas Rigveda, Yajurveda, Samveda, and Atharvaveda. Brahman granthas explain the Vedic literature and give the detailed process to perform the?...</description>
@@ -70,10 +63,17 @@
       </item>
     
       <item>
-        <title>Sanskrit BA (Hons) | Faculty of Asian and Middle Eastern Studies</title>
-        <link>https://www.ames.ox.ac.uk/sanskrit-ba-hons</link>
-        <description>... cultural setting in which Sanskrit has had its life and meaning. ... literature and write essays on various features of Sanskrit literature, history and culture.</description>
-        <guid isPermaLink="true">https://www.ames.ox.ac.uk/sanskrit-ba-hons</guid>
+        <title>What are the similarities between Tamil and Sanskrit? - Quora</title>
+        <link>https://www.quora.com/What-are-the-similarities-between-Tamil-and-Sanskrit</link>
+        <description>Oct 17, 2014 ... ... Vedic literature. E.g. Neer=Water, Min = Fish, Mayur ... grammar and literature. In addition, there had been great riva. Continue Reading.</description>
+        <guid isPermaLink="true">https://www.quora.com/What-are-the-similarities-between-Tamil-and-Sanskrit</guid>
+      </item>
+    
+      <item>
+        <title>School of Sanskrit | Ananda Ashram</title>
+        <link>https://www.anandaashram.org/SchoolofSanskrit</link>
+        <description>The vast body of literature in classical Sanskrit encompasses all branches of knowledge and culture ... meaning of the texts, including their significance?...</description>
+        <guid isPermaLink="true">https://www.anandaashram.org/SchoolofSanskrit</guid>
       </item>
     
       </channel>
