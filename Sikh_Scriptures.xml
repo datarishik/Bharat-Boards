@@ -7,17 +7,17 @@
         <atom:link href="https://script.google.com/macros/s/AKfycbwBEXRDeGRf4QY_m6Q44Bo3HtAgW6t8DmPm1blHBUOlsYnuQciO/exec" rel="self" type="application/rss+xml" />
         
       <item>
-        <title>The Guru Granth Sahib | The Pluralism Project</title>
-        <link>https://pluralism.org/the-guru-granth-sahib</link>
-        <description>The Guru Granth Sahib is the authoritative sacred text for Sikhs. It contains 3,000 hymns in various languages, with authors from multiple religious?...</description>
-        <guid isPermaLink="true">https://pluralism.org/the-guru-granth-sahib</guid>
-      </item>
-    
-      <item>
         <title>Guru Granth Sahib - Wikipedia</title>
         <link>https://en.wikipedia.org/wiki/Guru_Granth_Sahib</link>
         <description>The Guru Granth Sahib is the central holy religious scripture of Sikhism, regarded by Sikhs as the final, sovereign and eternal Guru following the lineage?...</description>
         <guid isPermaLink="true">https://en.wikipedia.org/wiki/Guru_Granth_Sahib</guid>
+      </item>
+    
+      <item>
+        <title>The Guru Granth Sahib | The Pluralism Project</title>
+        <link>https://pluralism.org/the-guru-granth-sahib</link>
+        <description>The Guru Granth Sahib is the authoritative sacred text for Sikhs. It contains 3,000 hymns in various languages, with authors from multiple religious?...</description>
+        <guid isPermaLink="true">https://pluralism.org/the-guru-granth-sahib</guid>
       </item>
     
       <item>
@@ -28,13 +28,6 @@
       </item>
     
       <item>
-        <title>Sri Granth</title>
-        <link>https://www.srigranth.org/</link>
-        <description>Welcome to Sri Granth, a Sri Guru Granth Sahib search engine and resource read more ? Keertan, |, Dictionaries, |, Quotations, |, SGGS Words, |, Hukamnama?...</description>
-        <guid isPermaLink="true">https://www.srigranth.org/</guid>
-      </item>
-    
-      <item>
         <title>Key messages and respect for the Guru Granth Sahib - The nature of ...</title>
         <link>https://www.bbc.co.uk/bitesize/guides/zmcf3k7/revision/8</link>
         <description>The Guru Granth Sahib close. Guru Granth SahibThe Guru Granth Sahib is the most important Sikh holy book. It is a collection of songs, prayers and hymns from?...</description>
@@ -42,24 +35,24 @@
       </item>
     
       <item>
+        <title>Sri Granth</title>
+        <link>https://www.srigranth.org/</link>
+        <description>Welcome to Sri Granth, a Sri Guru Granth Sahib search engine and resource read more ? Keertan, |, Dictionaries, |, Quotations, |, SGGS Words, |, Hukamnama?...</description>
+        <guid isPermaLink="true">https://www.srigranth.org/</guid>
+      </item>
+    
+      <item>
+        <title>Sri Guru Granth Sahib ? A brief history</title>
+        <link>https://www.alislam.org/articles/sri-guru-granth-sahib-brief-history/</link>
+        <description>Sri Guru Granth Sahib (SGGS) is the most respected and sacred book of the Sikhs. It contains 5894 hymns, called Shabads, composed in 18 ragas (musical patterns?...</description>
+        <guid isPermaLink="true">https://www.alislam.org/articles/sri-guru-granth-sahib-brief-history/</guid>
+      </item>
+    
+      <item>
         <title>Sikhism Religion of the Sikh People</title>
         <link>https://www.sikhs.org/granth.htm</link>
         <description>The Guru Granth Sahib is truely unique among the world&apos;s great scriptures. It is considered the Supreme Spiritual Authority and Head of the Sikh religion.</description>
         <guid isPermaLink="true">https://www.sikhs.org/granth.htm</guid>
-      </item>
-    
-      <item>
-        <title>The Last Guru ? the Guru Granth Sahib - Waheguru (God) and ...</title>
-        <link>https://www.bbc.co.uk/bitesize/guides/znnmtv4/revision/6</link>
-        <description>The Guru Granth Sahib close. Guru Granth SahibThe Guru Granth Sahib is the most important Sikh holy book. It is a collection of songs, prayers and hymns from?...</description>
-        <guid isPermaLink="true">https://www.bbc.co.uk/bitesize/guides/znnmtv4/revision/6</guid>
-      </item>
-    
-      <item>
-        <title>Ang 1 of Guru Granth Sahib Ji</title>
-        <link>https://www.sikhitothemax.org/ang?ang=1&source=G</link>
-        <description>sRI gurU gRMQ swihb jI - AMg 1. Sri Guru Granth Sahib Ji - Ang 1. &lt;&gt; siq nwmu krqw purKu inrBau inrvYru Akwl mUriq AjUnI sYBM gur pRswid ]. ikOankaar sat naam?...</description>
-        <guid isPermaLink="true">https://www.sikhitothemax.org/ang?ang=1&source=G</guid>
       </item>
     
       <item>
@@ -74,6 +67,13 @@
         <link>https://theguibordcenter.org/faiths/sikhism/sikh-sacred-texts/</link>
         <description>An Evening with Sri Guru Granth Sahib. Refreshed in Body ? in Mind ? in Spirit. The Guibord Center ? Religion Inside Out aims to help people have an?...</description>
         <guid isPermaLink="true">https://theguibordcenter.org/faiths/sikhism/sikh-sacred-texts/</guid>
+      </item>
+    
+      <item>
+        <title>Adi Granth | Guru Granth Sahib, Sikhism, Sikh Scriptures | Britannica</title>
+        <link>https://www.britannica.com/topic/Adi-Granth-Sikh-sacred-scripture</link>
+        <description>Mar 26, 2025 ... He is credited with the creation of the Mool Mantar (?root mantra?), which is an important component of Sikhism. It is the opening text of the?...</description>
+        <guid isPermaLink="true">https://www.britannica.com/topic/Adi-Granth-Sikh-sacred-scripture</guid>
       </item>
     
       </channel>
