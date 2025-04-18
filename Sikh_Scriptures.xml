@@ -7,17 +7,17 @@
         <atom:link href="https://script.google.com/macros/s/AKfycbwBEXRDeGRf4QY_m6Q44Bo3HtAgW6t8DmPm1blHBUOlsYnuQciO/exec" rel="self" type="application/rss+xml" />
         
       <item>
-        <title>Guru Granth Sahib - Wikipedia</title>
-        <link>https://en.wikipedia.org/wiki/Guru_Granth_Sahib</link>
-        <description>The Guru Granth Sahib is the central holy religious scripture of Sikhism, regarded by Sikhs as the final, sovereign and eternal Guru following the lineage?...</description>
-        <guid isPermaLink="true">https://en.wikipedia.org/wiki/Guru_Granth_Sahib</guid>
-      </item>
-    
-      <item>
         <title>The Guru Granth Sahib | The Pluralism Project</title>
         <link>https://pluralism.org/the-guru-granth-sahib</link>
         <description>The Guru Granth Sahib is the authoritative sacred text for Sikhs. It contains 3,000 hymns in various languages, with authors from multiple religious?...</description>
         <guid isPermaLink="true">https://pluralism.org/the-guru-granth-sahib</guid>
+      </item>
+    
+      <item>
+        <title>Guru Granth Sahib - Wikipedia</title>
+        <link>https://en.wikipedia.org/wiki/Guru_Granth_Sahib</link>
+        <description>The Guru Granth Sahib is the central holy religious scripture of Sikhism, regarded by Sikhs as the final, sovereign and eternal Guru following the lineage?...</description>
+        <guid isPermaLink="true">https://en.wikipedia.org/wiki/Guru_Granth_Sahib</guid>
       </item>
     
       <item>
@@ -42,10 +42,10 @@
       </item>
     
       <item>
-        <title>Explore the Guru Granth Sahib in English | Sikh Scripture, Research ...</title>
-        <link>https://gurugranthsahib.io/info/english/project</link>
-        <description>A global translation and transcreation initiative presenting the Guru Granth Sahib in contemporary English and Panjabi.</description>
-        <guid isPermaLink="true">https://gurugranthsahib.io/info/english/project</guid>
+        <title>Sri Guru Granth Sahib ? A brief history</title>
+        <link>https://www.alislam.org/articles/sri-guru-granth-sahib-brief-history/</link>
+        <description>Sri Guru Granth Sahib (SGGS) is the most respected and sacred book of the Sikhs. It contains 5894 hymns, called Shabads, composed in 18 ragas (musical patterns?...</description>
+        <guid isPermaLink="true">https://www.alislam.org/articles/sri-guru-granth-sahib-brief-history/</guid>
       </item>
     
       <item>
@@ -56,10 +56,10 @@
       </item>
     
       <item>
-        <title>Sri Guru Granth Sahib ? A brief history</title>
-        <link>https://www.alislam.org/articles/sri-guru-granth-sahib-brief-history/</link>
-        <description>Sri Guru Granth Sahib (SGGS) is the most respected and sacred book of the Sikhs. It contains 5894 hymns, called Shabads, composed in 18 ragas (musical patterns?...</description>
-        <guid isPermaLink="true">https://www.alislam.org/articles/sri-guru-granth-sahib-brief-history/</guid>
+        <title>Sikh Sacred Texts - The Guibord Center</title>
+        <link>https://theguibordcenter.org/faiths/sikhism/sikh-sacred-texts/</link>
+        <description>Guru Granth Sahib ? The Sacred Text. Unlike the Bible, the Torah, the Bhagavad Gita, or other sacred texts, the Guru Granth Sahib is not a history or even a?...</description>
+        <guid isPermaLink="true">https://theguibordcenter.org/faiths/sikhism/sikh-sacred-texts/</guid>
       </item>
     
       <item>
@@ -70,10 +70,10 @@
       </item>
     
       <item>
-        <title>Sikh Sacred Texts - The Guibord Center</title>
-        <link>https://theguibordcenter.org/faiths/sikhism/sikh-sacred-texts/</link>
-        <description>An Evening with Sri Guru Granth Sahib. Refreshed in Body ? in Mind ? in Spirit. The Guibord Center ? Religion Inside Out aims to help people have an?...</description>
-        <guid isPermaLink="true">https://theguibordcenter.org/faiths/sikhism/sikh-sacred-texts/</guid>
+        <title>Explore the Guru Granth Sahib in English | Sikh Scripture, Research ...</title>
+        <link>https://gurugranthsahib.io/info/english/project</link>
+        <description>A global translation and transcreation initiative presenting the Guru Granth Sahib in contemporary English and Panjabi.</description>
+        <guid isPermaLink="true">https://gurugranthsahib.io/info/english/project</guid>
       </item>
     
       </channel>
