@@ -7,17 +7,17 @@
         <atom:link href="https://script.google.com/macros/s/AKfycbwBEXRDeGRf4QY_m6Q44Bo3HtAgW6t8DmPm1blHBUOlsYnuQciO/exec" rel="self" type="application/rss+xml" />
         
       <item>
-        <title>The Guru Granth Sahib | The Pluralism Project</title>
-        <link>https://pluralism.org/the-guru-granth-sahib</link>
-        <description>The Guru Granth Sahib is the authoritative sacred text for Sikhs. It contains 3,000 hymns in various languages, with authors from multiple religious?...</description>
-        <guid isPermaLink="true">https://pluralism.org/the-guru-granth-sahib</guid>
-      </item>
-    
-      <item>
         <title>Guru Granth Sahib - Wikipedia</title>
         <link>https://en.wikipedia.org/wiki/Guru_Granth_Sahib</link>
         <description>The Guru Granth Sahib is the central holy religious scripture of Sikhism, regarded by Sikhs as the final, sovereign and eternal Guru following the lineage?...</description>
         <guid isPermaLink="true">https://en.wikipedia.org/wiki/Guru_Granth_Sahib</guid>
+      </item>
+    
+      <item>
+        <title>The Guru Granth Sahib | The Pluralism Project</title>
+        <link>https://pluralism.org/the-guru-granth-sahib</link>
+        <description>The Guru Granth Sahib is the authoritative sacred text for Sikhs. It contains 3,000 hymns in various languages, with authors from multiple religious?...</description>
+        <guid isPermaLink="true">https://pluralism.org/the-guru-granth-sahib</guid>
       </item>
     
       <item>
@@ -35,13 +35,6 @@
       </item>
     
       <item>
-        <title>Sri Guru Granth Sahib ? A brief history</title>
-        <link>https://www.alislam.org/articles/sri-guru-granth-sahib-brief-history/</link>
-        <description>Sri Guru Granth Sahib (SGGS) is the most respected and sacred book of the Sikhs. It contains 5894 hymns, called Shabads, composed in 18 ragas (musical patterns?...</description>
-        <guid isPermaLink="true">https://www.alislam.org/articles/sri-guru-granth-sahib-brief-history/</guid>
-      </item>
-    
-      <item>
         <title>Key messages and respect for the Guru Granth Sahib - The nature of ...</title>
         <link>https://www.bbc.co.uk/bitesize/guides/zmcf3k7/revision/8</link>
         <description>The Guru Granth Sahib close. Guru Granth SahibThe Guru Granth Sahib is the most important Sikh holy book. It is a collection of songs, prayers and hymns from?...</description>
@@ -49,31 +42,38 @@
       </item>
     
       <item>
-        <title>Sri Granth</title>
-        <link>https://www.srigranth.org/</link>
-        <description>Welcome to Sri Granth, a Sri Guru Granth Sahib search engine and resource read more ? Keertan, |, Dictionaries, |, Quotations, |, SGGS Words, |, Hukamnama?...</description>
-        <guid isPermaLink="true">https://www.srigranth.org/</guid>
-      </item>
-    
-      <item>
-        <title>Sri Guru Granth Sahib English Translation</title>
-        <link>https://www.sikhs.org/english/frame.html</link>
-        <description>It is in this spirit that various Sikh scholars have undertaken efforts to translate Sri Guru Granth Sahib into a number of languages in order to spread the?...</description>
-        <guid isPermaLink="true">https://www.sikhs.org/english/frame.html</guid>
-      </item>
-    
-      <item>
-        <title>The Guru Granth Sahib and Sikhism (Sacred Texts): Ganeri, Anita ...</title>
-        <link>https://www.amazon.com/Granth-Sahib-Sikhism-Sacred-Texts/dp/1583402454</link>
-        <description>Explains the history and practices of the religion of Sikhism, especially as revealed through its sacred book, the Guru Granth Sahib.</description>
-        <guid isPermaLink="true">https://www.amazon.com/Granth-Sahib-Sikhism-Sacred-Texts/dp/1583402454</guid>
-      </item>
-    
-      <item>
         <title>The Guru Granth Sahib Project | Sikh Research Institute (SikhRI)</title>
         <link>https://sikhri.org/tags/tggsp</link>
         <description>This project was initiated to provide a greater opportunity for everyone to develop a personal relationship with the Guru Granth Sahib.</description>
         <guid isPermaLink="true">https://sikhri.org/tags/tggsp</guid>
+      </item>
+    
+      <item>
+        <title>Guru Granth Sahib - New World Encyclopedia</title>
+        <link>https://www.newworldencyclopedia.org/entry/Guru_Granth_Sahib</link>
+        <description>The Guru Granth Sahib (Punjabi: ???? ????? ?????), also known as the Adi Granth, is the primary Holy Book of the Sikhs. and is consulted for religious guidance in?...</description>
+        <guid isPermaLink="true">https://www.newworldencyclopedia.org/entry/Guru_Granth_Sahib</guid>
+      </item>
+    
+      <item>
+        <title>Siri Guru Granth Sahib ? Sikh Dharma International</title>
+        <link>https://www.sikhdharma.org/sikh-history/siri-guru-granth-sahib/</link>
+        <description>As directed by the 10th Sikh Guru, Guru Gobind Singh Ji Maharaj, the Siri Guru Granth Sahib is considered to be the Living Guru of the Sikhs.</description>
+        <guid isPermaLink="true">https://www.sikhdharma.org/sikh-history/siri-guru-granth-sahib/</guid>
+      </item>
+    
+      <item>
+        <title>Guru Granth Sahib Ji ? 11th and Eternal Universal Guru - Blog Post</title>
+        <link>https://www.basicsofsikhi.com/post/guru-granth-sahib-ji</link>
+        <description>Mar 19, 2022 ... Guru Granth Sahib Ji is the holy scripture of Sikhs&apos; that is treated with utmost respect and is respected by Sikhs as a living Guru and not merely a scripture.</description>
+        <guid isPermaLink="true">https://www.basicsofsikhi.com/post/guru-granth-sahib-ji</guid>
+      </item>
+    
+      <item>
+        <title>Shri Guru Granth Sahib: The Awakener ... - Amazon.com</title>
+        <link>https://www.amazon.com/Shri-Guru-Granth-Sahib-Awakener/dp/1636402747</link>
+        <description>The purpose of this book is to introduce the reader to the Sikh philosophy and its core values &amp; beliefs, as enshrined in Shri Guru Granth Sahib - the eternal?...</description>
+        <guid isPermaLink="true">https://www.amazon.com/Shri-Guru-Granth-Sahib-Awakener/dp/1636402747</guid>
       </item>
     
       </channel>
