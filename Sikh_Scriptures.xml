@@ -7,17 +7,17 @@
         <atom:link href="https://script.google.com/macros/s/AKfycbwBEXRDeGRf4QY_m6Q44Bo3HtAgW6t8DmPm1blHBUOlsYnuQciO/exec" rel="self" type="application/rss+xml" />
         
       <item>
-        <title>The Guru Granth Sahib | The Pluralism Project</title>
-        <link>https://pluralism.org/the-guru-granth-sahib</link>
-        <description>The Guru Granth Sahib is the authoritative sacred text for Sikhs. It contains 3,000 hymns in various languages, with authors from multiple religious?...</description>
-        <guid isPermaLink="true">https://pluralism.org/the-guru-granth-sahib</guid>
-      </item>
-    
-      <item>
         <title>Guru Granth Sahib - Wikipedia</title>
         <link>https://en.wikipedia.org/wiki/Guru_Granth_Sahib</link>
         <description>The Guru Granth Sahib is the central holy religious scripture of Sikhism, regarded by Sikhs as the final, sovereign and eternal Guru following the lineage?...</description>
         <guid isPermaLink="true">https://en.wikipedia.org/wiki/Guru_Granth_Sahib</guid>
+      </item>
+    
+      <item>
+        <title>The Guru Granth Sahib | The Pluralism Project</title>
+        <link>https://pluralism.org/the-guru-granth-sahib</link>
+        <description>The Guru Granth Sahib is the authoritative sacred text for Sikhs. It contains 3,000 hymns in various languages, with authors from multiple religious?...</description>
+        <guid isPermaLink="true">https://pluralism.org/the-guru-granth-sahib</guid>
       </item>
     
       <item>
@@ -63,17 +63,17 @@
       </item>
     
       <item>
-        <title>The Guru Granth Sahib Project | Sikh Research Institute (SikhRI)</title>
-        <link>https://sikhri.org/tags/tggsp</link>
-        <description>This project was initiated to provide a greater opportunity for everyone to develop a personal relationship with the Guru Granth Sahib.</description>
-        <guid isPermaLink="true">https://sikhri.org/tags/tggsp</guid>
-      </item>
-    
-      <item>
-        <title>Sri Granth</title>
+        <title>Sri Granth Sahib</title>
         <link>https://www.srigranth.org/</link>
         <description>Welcome to Sri Granth, a Sri Guru Granth Sahib search engine and resource read more ? Keertan, |, Dictionaries, |, Quotations, |, SGGS Words, |, Hukamnama?...</description>
         <guid isPermaLink="true">https://www.srigranth.org/</guid>
+      </item>
+    
+      <item>
+        <title>The Adi Granth: Or The Holy Scriptures Of The Sikhs: Ernest Trumpp ...</title>
+        <link>https://www.amazon.com/Adi-Granth-Holy-Scriptures-Sikhs/dp/8121502446</link>
+        <description>The compilation of the Adi Granth was done by the fifth Sikh guru, Arjan, in AD 1603 and contains, besides his own writings, the compositions of the four?...</description>
+        <guid isPermaLink="true">https://www.amazon.com/Adi-Granth-Holy-Scriptures-Sikhs/dp/8121502446</guid>
       </item>
     
       </channel>
